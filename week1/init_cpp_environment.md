@@ -1,15 +1,18 @@
 # C++ 환경 셋팅
 
+#### [MacOS](https://headf1rst.github.io/c++/clang-c++17/)
+
 ## 1. 컴파일러 설치
 
-## Ubuntu & MacOS
+
+### Ubuntu & MacOS
 ```bash
 sudo apt-get install g++
 
 brew install clang
 ```
 
-## Windows
+### Windows
 [# PS를 위한 VSCode C++ 셋팅하기](https://velog.io/@phantom5087/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98CVSCode-PS%EB%A5%BC-%EC%9C%84%ED%95%9C-VSCode-C-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0)
 
 1. [Install mingw](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/)
