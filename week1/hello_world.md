@@ -96,6 +96,16 @@ int main(){
 int a;
 cin >> a; // 화면에서 입력받은 숫자를 a 에 저장한다.
 cout << a; // a의 값을 화면에 출력한다.
+
+int b,c;
+char d;
+cin >> b >> c >> d;
+```
+
+```c
+int a;
+scanf("%d",&a);
+prinf("%d",a);
 ```
 
 ## Arithmetric Operation
