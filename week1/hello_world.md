@@ -105,7 +105,7 @@ cin >> b >> c >> d;
 ```c
 int a;
 scanf("%d",&a);
-prinf("%d",a);
+printf("%d",a);
 ```
 
 ## Arithmetric Operation
